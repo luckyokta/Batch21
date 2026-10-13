@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueue", "CircularQu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBar2", "FooBar2\FooBar2.csproj", "{20C8DB07-14B7-4B45-BAF5-690437C18AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue2", "Queue2\Queue2.csproj", "{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,18 @@ Global
 		{20C8DB07-14B7-4B45-BAF5-690437C18AF2}.Release|x64.Build.0 = Release|Any CPU
 		{20C8DB07-14B7-4B45-BAF5-690437C18AF2}.Release|x86.ActiveCfg = Release|Any CPU
 		{20C8DB07-14B7-4B45-BAF5-690437C18AF2}.Release|x86.Build.0 = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|x64.Build.0 = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Debug|x86.Build.0 = Debug|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|x64.ActiveCfg = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|x64.Build.0 = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{D10970B4-14ED-42E6-97A6-722DD3CF7DF5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
